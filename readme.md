@@ -1,6 +1,4 @@
-Here’s a **simplified and shorter version** of your README — rewritten for clarity and easy upload to GitHub. It keeps all key info but removes long paragraphs and technical redundancy 👇
 
----
 
 ````markdown
 # Cyber Security LLM Agents
